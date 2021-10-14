@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Abhishek Kumar</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi I am Abhishek.
+    \n\nI love Coding and I want to be a good Software Developer.
+    \n\nI have been working on my coding skills and I have gained working knowledge required in this field.
+    \n\nI will soon begin to work on my personal project and I will create some big projects to gain more knowledge and
+        improve my skill set.
+        \n\nI am also good at physical activities like running and playing basketball.
+        \nI also play video games.
+        \nI like reading books.
+        \n\nThe most important thing is I want to be financially independent and I will do this in recent times.
+        \n\nI am currently pursuing graduation degree in Information Technology.
+        \nFrom childhood I had a keen interest in maths and always wanted to solve more hard problems.
+        \nFrom there I got into coding and now I like coding and getting better day by day.
+    \nThank you for reading this and I hope you will see be better on next day.\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
